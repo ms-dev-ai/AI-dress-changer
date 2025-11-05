@@ -1,0 +1,5 @@
+{
+  "name": "AI Outfit Changer",
+  "description": "Upload a full-body photo of a woman, and this app will generate a new image with a different outfit while keeping the original background, face, and pose. The new outfit is a stylish black or white silk gown.",
+  "requestFramePermissions": []
+}
